@@ -1,16 +1,74 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "empleados": [
+      {
+          "id": "1",
+          "name": {
+              "nombre": "Carlos",
+              "apellido1": "Dominguez",
+              "apellido2": "Ruano"
+          },
+          "email": "carlos@gmail.com",
+          "login": {
+              "username": "carlos",
+              "password": "Carlitos01"
+          },
+          "phone": "123456789"
+      },
+      {
+          "id": "2",
+          "name": {
+              "nombre": "Ivan",
+              "apellido1": "Bla",
+              "apellido2": "Blo"
+          },
+          "email": "ivan@gmail.com",
+          "login": {
+              "username": "ivan",
+              "password": "Ivan01"
+          },
+          "phone": "123456789"
+      },
+      {
+          "id": "3",
+          "name": {
+              "nombre": "Ayoub",
+              "apellido1": "Bla",
+              "apellido2": "Blo"
+          },
+          "email": "ayoub@gmail.com",
+          "login": {
+              "username": "ayoub",
+              "password": "Ayoub01"
+          },
+          "phone": "123456789"
+      },
+      {
+          "id": "4",
+          "name": {
+              "nombre": "Adrian",
+              "apellido1": "Bla",
+              "apellido2": "Blo"
+          },
+          "email": "adrian@gmail.com",
+          "login": {
+              "username": "adrian",
+              "password": "Adrian01"
+          },
+          "phone": "123456789"
+      },
+      {
+          "id": "5",
+          "name": {
+              "nombre": "Juanru",
+              "apellido1": "Bla",
+              "apellido2": "Blo"
+          },
+          "email": "ayoub@gmail.com",
+          "login": {
+              "username": "juanru",
+              "password": "Juanru01"
+          },
+          "phone": "123456789"
+      }
   ]
 }
